@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z2g52nuok-nodejs-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/z2g52nuok-nodejs
